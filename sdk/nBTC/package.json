@@ -1,6 +1,6 @@
 {
 	"name": "@vuvoth/nbtc",
-	"version": "0.0.2",
+	"version": "0.0.1",
 	"description": "TypeScript SDK for nBTC on Sui blockchain",
 	"type": "module",
 	"main": "./dist/index.js",
