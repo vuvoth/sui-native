@@ -18,14 +18,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/sui-native/sui-native.git"
+		"url": "git+https://github.com/vuvoth/sui-native.git"
 	},
 	"author": "Native",
 	"license": "MPL-2.0",
 	"bugs": {
-		"url": "https://github.com/sui-native/sui-native/issues"
+		"url": "https://github.com/vuvoth/sui-native/issues"
 	},
-	"homepage": "https://github.com/sui-native/sui-native#readme",
+	"homepage": "https://github.com/vuvoth/sui-native#readme",
 	"dependencies": {
 		"@mysten/sui": "^1.45.0"
 	},
