@@ -51,4 +51,5 @@ jobs:
       - name: Publish to npm
         working-directory: ./sdk/nBTC
         run: bun publish
-        NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
