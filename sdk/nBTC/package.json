@@ -1,6 +1,6 @@
 {
 	"name": "@vuvoth/nbtc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "TypeScript SDK for nBTC on Sui blockchain",
 	"type": "module",
 	"main": "./dist/index.js",
@@ -14,7 +14,8 @@
 		"prepublishOnly": "bun run build"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"@vuvoth:registry": "https://npm.pkg.github.com"
 	},
 	"repository": {
 		"type": "git",
